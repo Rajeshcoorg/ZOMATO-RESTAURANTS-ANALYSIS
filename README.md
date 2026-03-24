@@ -2,7 +2,7 @@
 # RESTAURANTS DATA ANALYSIS USING GOOGLE SHEETS
 
 ## Objective
-Analyze Zomato restaurant data to identify trends in ratings, pricing, locations, and online delivery impact.
+To Analyze Zomato restaurant data to identify trends in ratings, pricing, locations, and online delivery impact.
 
 ## Tools Used
 - Google Sheets
