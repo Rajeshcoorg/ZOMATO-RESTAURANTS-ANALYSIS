@@ -1,6 +1,9 @@
 # ZOMATO-RESTAURANTS-ANALYSIS
 # RESTAURANTS DATA ANALYSIS USING GOOGLE SHEETS
 
+## 📸 Dashboard Preview
+<img src="zomato.png" width="700"/>
+
 ## Objective
 To Analyze Zomato restaurant data to identify trends in ratings, pricing, locations, and online delivery impact.
 
